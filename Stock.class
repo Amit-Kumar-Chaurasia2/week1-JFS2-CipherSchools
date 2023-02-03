@@ -1,0 +1,12 @@
+package Inventory;
+
+public class Stock {
+    
+    public String iAmAccessibleEverWhere;
+
+    private String iAmAccessibleOnlyHere;
+
+    protected String iAmAccessibletoDerivedClasses;
+
+    
+}
